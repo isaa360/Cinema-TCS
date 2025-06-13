@@ -110,7 +110,7 @@ const Sessoes = () => {
                 </Col>
             </Row>
 
-            <h3>Sessões Cadastradas / Disponíveis</h3>
+            <h3>Sessões Cadastradas</h3>
             {sessoes.length === 0 ? (
                 <p>Nenhuma sessão cadastrada.</p>
             ) : (
